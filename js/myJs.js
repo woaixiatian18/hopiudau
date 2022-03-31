@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text1: "Haloooooo Hợp iu!",
+  text2: "Hôm nay là ngày gì ta?.",
+  text3: "Ta-daaaaaa Sinh nhật vui vẻ ._.",
+  text4: "Chúc bạn Hợp tuổi mới ngày càng thành công và xinh đẹp nò :v",
+  text5: "Chó",
+  text6: "Hợp iu 2 bạn nhiều lắm<3",
+  text7: "Có bất ngờ không?",
+  text8: "Gửi cho t <3",
+  text9: "An và Hương dễ xương cute",
+  text10: "Có quà cho m nè",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "Chọn một món đồ yêu thích điiiii",
+  text12: "Sẵn sàng chưa <3",
 };
 
 $(document).ready(function () {
@@ -35,7 +35,7 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "img/cuteCat.jpg",
+      imageUrl: "img/2F59FE84-59CF-43FB-BE29-3713B69C7E02",
       imageWidth: 300,
       imageHeight: 300,
       background: '#fff url("img/iput-bg.jpg")',
