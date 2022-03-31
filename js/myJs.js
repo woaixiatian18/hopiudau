@@ -38,7 +38,7 @@ $(document).ready(function () {
       imageUrl: "img/2F59FE84-59CF-43FB-BE29-3713B69C7E02",
       imageWidth: 300,
       imageHeight: 300,
-      background: '#fff url("img/C78C5293-67A7-444F-93B2-B941D47C0802.jpeg")',
+      background: '#fff url("img/041C1E90-15BD-4A9E-8E7E-D1DFE8E2E4B6.jpeg")',
       imageAlt: "Custom image",
     }).then(function () {
       $(".content").show(200);
@@ -115,7 +115,7 @@ $(document).ready(function () {
       width: 900,
       padding: "3em",
       html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
-      background: '#fff url("img/C78C5293-67A7-444F-93B2-B941D47C0802.jpeg")',
+      background: '#fff url("img/041C1E90-15BD-4A9E-8E7E-D1DFE8E2E4B6.jpeg")',
       backdrop: `
                     rgba(0,0,123,0.4)
                     url("img/1515E064-E751-4338-95B5-7820800FE51D")
@@ -133,7 +133,7 @@ $(document).ready(function () {
         Swal.fire({
           width: 900,
           confirmButtonText: textConfig.text12,
-          background: '#fff url("img/C78C5293-67A7-444F-93B2-B941D47C0802.jpeg")',
+          background: '#fff url("img/041C1E90-15BD-4A9E-8E7E-D1DFE8E2E4B6.jpeg")',
           title: textConfig.text10,
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
